@@ -1,5 +1,5 @@
-# springboot-rest-angularjs
-Source files of a basic Sprint Boot application with REST endpoint and AngularJS frontend.
+# Spring Boot application with REST and AngularJS
+Source files of a basic Sprint Boot application with REST endpoint and AngularJS frontend. https://www.pancompany.com/blog/how-to-build-a-spring-boot-application-with-rest-and-angularjs/
 
 ## Running the code
 Install AngularJS in `/src/main/resources` with the following command.
